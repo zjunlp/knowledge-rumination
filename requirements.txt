@@ -1,0 +1,11 @@
+sentence-transformers==0.4.0
+torch==1.8.1+cu111
+tokenizers
+filelock
+requests
+sacremoses
+sentencepiece
+tqdm
+regex
+sentencepiece
+packaging
